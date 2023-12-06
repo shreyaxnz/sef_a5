@@ -1,11 +1,13 @@
 # Welcome to XYZ Website User Guide
 
-## Table of Contents
+## Content
 1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
-    - [Feature 1: Search](#feature-1-search)
-    - [Feature 2: User Profile](#feature-2-user-profile)
+2. [To begin](#to-begin)
+3. [Overview](#overview)
+    - [Step 1: Select Movie](#step-1-select-movie)
+    - [Step 2: Select Seats](#step-2-select-seats)
+    - [Step 3: Snacksbar](#step-3-snacksbar)
+    - [Step 4: Payment](#step-4-payment)
 4. [FAQs](#faqs)
 5. [Contact Us](#contact-us)
 
@@ -13,42 +15,35 @@
 
 ## Introduction
 
-Welcome to XYZ Website! This user guide will help you navigate through the various features and functionalities of our website.
+Welcome to XYZ Website! This user guide will help you navigate through the various functions of our website.
 
-## Getting Started
+## To Begin
 
 ### Accessing the Website
 Visit [xyzwebsite.com](https://www.xyzwebsite.com) to access our website.
 
 ### Creating an Account
-To access personalized features, consider creating a user account. Click on the "Sign Up" button and follow the prompts to create your account.
+To access personalized features and discounts consider creating a user account. Click on the "Sign Up" button and follow the steps to create your account.
 
-## Features
+## Overview
 
-### Feature 1: Search
+### Step 1: Select Movie
 
-Our website comes equipped with a powerful search feature to help you find what you're looking for quickly.
+Theatre has number of movies shown at the same time. You will find the list of them shown in the front page and the user will be able to select whichever movie they wants to see and the short description will pop up containing all the information such as movie description, cast, and time.
 
-1. **Simple Search**
-    - Use the search bar on the homepage to enter keywords.
-    - Relevant results will be displayed instantly.
+### Step 2: Select Seats
 
-2. **Advanced Search**
-    - Click on the "Advanced Search" link to access additional filters.
-    - Refine your search based on categories, date, or other criteria.
+There will be an array of the seats, labeling which ones are taken and which aren't. The user will be able to select the number of seats they want to purchase with the box under the seat display.
+The box will not allow them to select more seats than are available in the theatre, displaying the insufficiant seats popup of they do.
 
-### Feature 2: User Profile
+### Step 3: Snacksbar
 
-Manage your personal preferences and activities with the user profile feature.
+Then, Snacks bar will pop up, letting the user select the drinks and snacks they want to have while watching the movie. If the user don't want anything, they can skip this step.
+The box will ask for confirmation of the order.
 
-1. **Profile Information**
-    - Update your profile picture, email, and other details.
+### Step 4: Payment
 
-2. **Saved Items**
-    - Save your favorite items for quick access.
-
-3. **Order History**
-    - View your order history and track your purchases.
+The website will ask user for selecting payment method. If gets approved tickets will be given, if it doesn't get approved it will show error message.
 
 ---
 
@@ -56,15 +51,15 @@ Manage your personal preferences and activities with the user profile feature.
 
 ### 1. How do I reset my password?
 
-If you forget your password, click on the "Forgot Password" link on the login page. Follow the instructions sent to your registered email to reset your password.
+If you forget your password, click on the "Forgot Password" link on the login page. Follow the steps shown.
 
-### 2. Can I change my username?
+### 2. How will I get my receipt?
 
-Yes, you can change your username in the "Profile Settings" section after logging into your account.
+You can get your receipt either printed or directly sent to your email.
 
 ### 3. How do I contact customer support?
 
-For any assistance, visit our [Support Page](https://www.xyzwebsite.com/support) or email us at support@xyzwebsite.com.
+For any help, visit our [Support Page](https://www.xyzwebsite.com/support) or email us at support@xyzwebsite.com.
 
 ---
 
